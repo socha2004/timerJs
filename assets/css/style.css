@@ -29,3 +29,7 @@ body {
 .timer{
   font-size: 40pt;
 }
+
+.pausado{
+  color : #ff0000
+}
